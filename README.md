@@ -1,4 +1,5 @@
-# php-dpd-api - MASTER
+# php-dpd-api - MASTER of puppets
+
 
 Set of PHP classes to handle API of courier services (DPD Poland)
 
