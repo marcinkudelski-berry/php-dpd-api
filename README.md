@@ -1,4 +1,4 @@
-# php-dpd-api
+# php-dpd-api - MASTER
 
 Set of PHP classes to handle API of courier services (DPD Poland)
 
