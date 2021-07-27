@@ -1,4 +1,4 @@
-# php-dpd-api
+# php-dpd-api - Berry version - aktualizacja o nowe wersje metod API
 
 Set of PHP classes to handle API of courier services (DPD Poland)
 
